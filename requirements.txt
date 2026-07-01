@@ -1,0 +1,2 @@
+# No external dependencies required
+# Core pipeline uses only Python standard library

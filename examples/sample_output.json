@@ -1,0 +1,26 @@
+[
+  {
+    "company_name": "维他动力（北京）科技有限公司",
+    "title": "维他动力完成5亿元Pre-A轮融资",
+    "event_type": "融资",
+    "source_url": "https://example.com/news/1",
+    "summary": "维他动力（北京）科技有限公司完成5.00亿人民币Pre-A轮融资，由某产业基金领投，将用于人形机器人研发与量产。",
+    "source_type": "news",
+    "discovery_time": "2026-07-01T10:30:00",
+    "potential_score": 90,
+    "follow_up_reason": "企业近期出现融资事件，通常意味着扩张、采购或账户结算需求上升。",
+    "follow_up_action": "建议客户经理优先联系维他动力（北京）科技有限公司，核实融资用途、开户需求与授信扩额机会。"
+  },
+  {
+    "company_name": "北京智行科技有限公司",
+    "title": "北京智行科技有限公司中标智慧交通项目",
+    "event_type": "中标/资质",
+    "source_url": "https://example.com/bid/1",
+    "summary": "北京智行科技有限公司中标某市智慧交通信号系统升级项目，中标金额1.2亿元。",
+    "source_type": "news",
+    "discovery_time": "2026-07-01T09:15:00",
+    "potential_score": 80,
+    "follow_up_reason": "企业近期获得项目/资质/补贴，通常意味着经营稳定性和资金周转需求提升。",
+    "follow_up_action": "建议跟进北京智行科技有限公司的项目回款、保函、供应链金融或结算服务机会。"
+  }
+]
